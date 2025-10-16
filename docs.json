@@ -3,8 +3,8 @@
   "theme": "mint",
   "name": "Quikie",
   "colors": {
-    "primary": "#B8EAFF",
-    "light": "#4DCAFF",
+    "primary": "#4DCAFF",
+    "light": "#B8EAFF",
     "dark": "#005275"
   },
   "favicon": "/favicon.svg",
