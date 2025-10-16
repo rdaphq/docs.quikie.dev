@@ -4,8 +4,8 @@
   "name": "Quikie",
   "colors": {
     "primary": "#B8EAFF",
-    "light": "#005275",
-    "dark": "#4DCAFF"
+    "light": "#4DCAFF",
+    "dark": "#005275"
   },
   "favicon": "/favicon.svg",
   "navigation": {
