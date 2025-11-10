@@ -2,6 +2,10 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "almond",
   "name": "Quikie",
+  "description": "An organized and lightweight CSS and JS library to speed up your landing pages development. Just copy the HTML templates, customize the content and add classes to stylish in seconds",
+  "seo": {
+    "indexing": "all"
+  },
   "colors": {
     "primary": "#4DCAFF",
     "light": "#00B2FF",
