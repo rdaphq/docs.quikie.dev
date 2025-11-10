@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "almond",
   "name": "Quikie",
   "colors": {
     "primary": "#4DCAFF",
@@ -21,14 +21,14 @@
             ]
           },
           {
-            "group": "Customization",
+            "group": "Components",
             "pages": [
               "essentials/settings",
               "essentials/navigation"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Structure",
             "pages": [
               "essentials/markdown",
               "essentials/code",
@@ -37,7 +37,7 @@
             ]
           },
           {
-            "group": "AI tools",
+            "group": "Color/Theme",
             "pages": [
               "ai-tools/cursor",
               "ai-tools/claude-code",
